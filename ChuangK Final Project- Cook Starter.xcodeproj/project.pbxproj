@@ -9,23 +9,43 @@
 /* Begin PBXBuildFile section */
 		7E21DB9B2416F2CC00D40CB2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E21DB9A2416F2CC00D40CB2 /* AppDelegate.swift */; };
 		7E21DB9D2416F2CC00D40CB2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E21DB9C2416F2CC00D40CB2 /* SceneDelegate.swift */; };
-		7E21DB9F2416F2CC00D40CB2 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E21DB9E2416F2CC00D40CB2 /* FirstViewController.swift */; };
-		7E21DBA12416F2CC00D40CB2 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E21DBA02416F2CC00D40CB2 /* SecondViewController.swift */; };
 		7E21DBA42416F2CC00D40CB2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E21DBA22416F2CC00D40CB2 /* Main.storyboard */; };
 		7E21DBA62416F2D000D40CB2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E21DBA52416F2D000D40CB2 /* Assets.xcassets */; };
 		7E21DBA92416F2D000D40CB2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E21DBA72416F2D000D40CB2 /* LaunchScreen.storyboard */; };
+		7E21DBB72417358000D40CB2 /* Techniques.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E21DBB62417358000D40CB2 /* Techniques.swift */; };
+		7E21DBB92417376700D40CB2 /* TechniqueListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E21DBB82417376700D40CB2 /* TechniqueListTableViewController.swift */; };
+		7E21DBBB2417383D00D40CB2 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E21DBBA2417383D00D40CB2 /* DetailViewController.swift */; };
+		7EA29CF3241D9ABB00A0B21F /* GalleryCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EA29CF2241D9ABB00A0B21F /* GalleryCollectionViewController.swift */; };
+		7EC427202418A6C20051F9EC /* InstructionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EC4271F2418A6C20051F9EC /* InstructionsViewController.swift */; };
+		7EC427222418A71B0051F9EC /* AddPicsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EC427212418A71B0051F9EC /* AddPicsViewController.swift */; };
+		7EC427262418B4940051F9EC /* RecipeListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EC427252418B4940051F9EC /* RecipeListTableViewController.swift */; };
+		7EC427282419CF240051F9EC /* Recipes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EC427272419CF240051F9EC /* Recipes.swift */; };
+		7ED27C64241DE5DF00965B1B /* RecipeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ED27C63241DE5DF00965B1B /* RecipeTableViewCell.swift */; };
+		7ED27C66241F6BBC00965B1B /* PhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ED27C65241F6BBC00965B1B /* PhotoViewController.swift */; };
+		7ED27C68241FC5D500965B1B /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ED27C67241FC5D500965B1B /* Photo.swift */; };
+		7ED27C6A241FDAFF00965B1B /* PhotoCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ED27C69241FDAFF00965B1B /* PhotoCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		7E21DB972416F2CC00D40CB2 /* ChuangK Final Project- Cook Starter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ChuangK Final Project- Cook Starter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E21DB9A2416F2CC00D40CB2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7E21DB9C2416F2CC00D40CB2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		7E21DB9E2416F2CC00D40CB2 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
-		7E21DBA02416F2CC00D40CB2 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		7E21DBA32416F2CC00D40CB2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7E21DBA52416F2D000D40CB2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7E21DBA82416F2D000D40CB2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7E21DBAA2416F2D000D40CB2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7E21DBB62417358000D40CB2 /* Techniques.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Techniques.swift; sourceTree = "<group>"; };
+		7E21DBB82417376700D40CB2 /* TechniqueListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TechniqueListTableViewController.swift; sourceTree = "<group>"; };
+		7E21DBBA2417383D00D40CB2 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		7EA29CF2241D9ABB00A0B21F /* GalleryCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryCollectionViewController.swift; sourceTree = "<group>"; };
+		7EC4271F2418A6C20051F9EC /* InstructionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructionsViewController.swift; sourceTree = "<group>"; };
+		7EC427212418A71B0051F9EC /* AddPicsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddPicsViewController.swift; sourceTree = "<group>"; };
+		7EC427252418B4940051F9EC /* RecipeListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeListTableViewController.swift; sourceTree = "<group>"; };
+		7EC427272419CF240051F9EC /* Recipes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recipes.swift; sourceTree = "<group>"; };
+		7ED27C63241DE5DF00965B1B /* RecipeTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeTableViewCell.swift; sourceTree = "<group>"; };
+		7ED27C65241F6BBC00965B1B /* PhotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoViewController.swift; sourceTree = "<group>"; };
+		7ED27C67241FC5D500965B1B /* Photo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
+		7ED27C69241FDAFF00965B1B /* PhotoCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,9 +80,19 @@
 			children = (
 				7E21DB9A2416F2CC00D40CB2 /* AppDelegate.swift */,
 				7E21DB9C2416F2CC00D40CB2 /* SceneDelegate.swift */,
-				7E21DB9E2416F2CC00D40CB2 /* FirstViewController.swift */,
-				7E21DBA02416F2CC00D40CB2 /* SecondViewController.swift */,
 				7E21DBA22416F2CC00D40CB2 /* Main.storyboard */,
+				7EC427272419CF240051F9EC /* Recipes.swift */,
+				7EC427252418B4940051F9EC /* RecipeListTableViewController.swift */,
+				7EC4271F2418A6C20051F9EC /* InstructionsViewController.swift */,
+				7ED27C63241DE5DF00965B1B /* RecipeTableViewCell.swift */,
+				7E21DBB62417358000D40CB2 /* Techniques.swift */,
+				7E21DBB82417376700D40CB2 /* TechniqueListTableViewController.swift */,
+				7E21DBBA2417383D00D40CB2 /* DetailViewController.swift */,
+				7ED27C67241FC5D500965B1B /* Photo.swift */,
+				7EA29CF2241D9ABB00A0B21F /* GalleryCollectionViewController.swift */,
+				7ED27C65241F6BBC00965B1B /* PhotoViewController.swift */,
+				7EC427212418A71B0051F9EC /* AddPicsViewController.swift */,
+				7ED27C69241FDAFF00965B1B /* PhotoCollectionViewCell.swift */,
 				7E21DBA52416F2D000D40CB2 /* Assets.xcassets */,
 				7E21DBA72416F2D000D40CB2 /* LaunchScreen.storyboard */,
 				7E21DBAA2416F2D000D40CB2 /* Info.plist */,
@@ -141,10 +171,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7E21DBA12416F2CC00D40CB2 /* SecondViewController.swift in Sources */,
-				7E21DB9F2416F2CC00D40CB2 /* FirstViewController.swift in Sources */,
+				7ED27C68241FC5D500965B1B /* Photo.swift in Sources */,
+				7E21DBBB2417383D00D40CB2 /* DetailViewController.swift in Sources */,
+				7EC427202418A6C20051F9EC /* InstructionsViewController.swift in Sources */,
+				7E21DBB92417376700D40CB2 /* TechniqueListTableViewController.swift in Sources */,
+				7ED27C64241DE5DF00965B1B /* RecipeTableViewCell.swift in Sources */,
+				7EC427262418B4940051F9EC /* RecipeListTableViewController.swift in Sources */,
+				7EC427282419CF240051F9EC /* Recipes.swift in Sources */,
+				7EA29CF3241D9ABB00A0B21F /* GalleryCollectionViewController.swift in Sources */,
 				7E21DB9B2416F2CC00D40CB2 /* AppDelegate.swift in Sources */,
+				7EC427222418A71B0051F9EC /* AddPicsViewController.swift in Sources */,
+				7ED27C6A241FDAFF00965B1B /* PhotoCollectionViewCell.swift in Sources */,
 				7E21DB9D2416F2CC00D40CB2 /* SceneDelegate.swift in Sources */,
+				7E21DBB72417358000D40CB2 /* Techniques.swift in Sources */,
+				7ED27C66241F6BBC00965B1B /* PhotoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,7 +338,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "Kelly-Chuang.ChuangK-Final-Project--Cook-Starter";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -316,7 +356,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "Kelly-Chuang.ChuangK-Final-Project--Cook-Starter";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
